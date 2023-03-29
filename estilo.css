@@ -15,6 +15,15 @@
         font-size: 24px;
 }
 .cabecalho-imagem{
-    width: 10%;
+    width: 40%;
+}
+
+.YoshiJournal{
+
+    background-image: linear-gradient(lightgreen, white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
 }
    
